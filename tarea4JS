@@ -1,0 +1,19 @@
+let altura = 192
+console.log(altura)
+
+
+let altura_metros = 1.92
+console.log(altura_metros)
+
+
+let peso = 1.30
+console.log(peso)
+
+let altura_redodeada = 1.92
+console.log(altura_redodeada.toPrecision(1))
+
+console.log(altura_redodeada.toFixed(1))
+
+let max_valueJS = 1 
+Number.MAX_VALUE
+console.log(max_valueJS === Number.MAX_VALUE)
